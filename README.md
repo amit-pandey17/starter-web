@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 BlahBlah
 
 ##how to contribute
+fork it
 
 Bhlah
 
