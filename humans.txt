@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Amit pandey17amit@gmail.com
 
 # THANKS
 
