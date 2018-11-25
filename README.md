@@ -18,3 +18,7 @@ BlahBlah
 #Deployment
 
 Sample website with plenty of files for demos
+
+###Copyright
+
+2018 git copyright
