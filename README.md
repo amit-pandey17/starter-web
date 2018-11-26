@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. adding line
+This repository is for showing how Git and GitHub work. adding line. mf2
 
 ## Introduction
 
